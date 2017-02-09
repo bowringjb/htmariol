@@ -1,0 +1,19 @@
+html, body {
+	background-color: #000;
+	margin:0;
+	padding:0;
+}
+
+#InputSetter {
+	position:absolute;
+	top:50%;
+	left:50%;
+	color: #fff;
+	background-color: rgba(0,0,0,0.8);
+	padding: 20px;
+	display: none;
+}
+
+#InputSetter li {
+	display: none;
+}
